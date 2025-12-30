@@ -1,4 +1,4 @@
-# Redacao.ai ✍️🚀
+# Redacao.ai ✍️
 
 Transformando a correção de redações com Inteligência Artificial e RAG (Retrieval-Augmented Generation).
 
