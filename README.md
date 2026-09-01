@@ -2,7 +2,7 @@
 
 Transformando a correção de redações com Inteligência Artificial e RAG (Retrieval-Augmented Generation).
 
-O **Redacao.ai** é uma plataforma SaaS premium que utiliza o poder do Google Gemini para oferecer correções de redações manuscritas com precisão humana, utilizando exemplos reais para calibrar o nível de rigor.
+O **Redacao.ai** é uma plataforma SaaS premium que utiliza o Google Gemini para oferecer correções de redações manuscritas com precisão humana, utilizando exemplos reais para calibrar o nível de rigor.
 
 ## 🌟 Diferenciais
 - **OCR Multimodal**: Transcrição fiel de textos manuscritos a partir de fotos.
@@ -55,6 +55,3 @@ O **Redacao.ai** é uma plataforma SaaS premium que utiliza o poder do Google Ge
    npm install
    npm run dev
    ```
-
-## 📄 Licença
-Privado - Desenvolvido por GuilhermeGG12.
